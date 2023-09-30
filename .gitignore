@@ -1,0 +1,21 @@
+# Carpeta de node_modules
+node_modules/
+
+# Archivo de configuración de entorno (.env)
+.env
+
+# Carpeta de archivos temporales de Visual Studio
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb][Ii][Nn]/
+[Oo][Bb][Jj]/
+[Ll][Oo][Gg][Ss]/
+
+# Archivo de configuración de Visual Studio
+*.user
+*.suo
+*.sln.docstates
